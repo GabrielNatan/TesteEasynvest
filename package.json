@@ -1,0 +1,15 @@
+{
+  "name": "04-easy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gabriel Natan",
+  "license": "MIT",
+  "dependencies": {
+    "cypress": "^6.8.0",
+    "node-sass": "^5.0.0"
+  }
+}
